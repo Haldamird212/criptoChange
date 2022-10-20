@@ -216,16 +216,16 @@ main{
     margin: 0 auto;
     margin-top: 15px;
     padding: 8px;
-    background-color: var(--soft-orange);
     border-radius: 8px;
 }
 .currency-table-date p{
     font-size: 1.2rem;
     line-height: 1.5rem;
+    color: var(--warm-black);
     font-weight: 300;
 }
 .currency-table--container .color-orange{
-    color: var(--warm-black);
+    background-color: var(--soft-orange);
 }
 .currency-table--container .color-blue{
     color: var(--soft-blue);
