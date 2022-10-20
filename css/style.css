@@ -319,14 +319,14 @@ main{
     background-position: center;
     background-repeat: no-repeat;
 }
-.product-card--container .product-card--title{
+.product-cards--container .product-card--title{
     margin-bottom: 15px;
     font-size: 1.8rem;
     font-weight: bold;
     line-height: 1.8rem;
     color: var(--white);
 }
-.product-card--container .product-card--body{
+.product-cards--container .product-card--body{
     font-size: 1.4rem;
     font-weight: 500;
     line-height: 1.8rem;
