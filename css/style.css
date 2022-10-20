@@ -193,6 +193,7 @@ main{
 .currency-table--container .down{
     display: inline-block;
     width: 15px;
+    height: 15px;
     margin-left: 10px;
     background-image: url('../assets/icons/trending-down.svg');
     background-size: cover;
@@ -202,6 +203,7 @@ main{
 .currency-table--container .up{
     display: inline-block;
     width: 15px;
+    height: 15px;
     margin-left: 10px;
     background-image: url('../assets/icons/trending-up.svg');
     background-size: cover;
