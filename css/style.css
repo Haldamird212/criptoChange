@@ -224,9 +224,9 @@ main{
     color: var(--warm-black);
     font-weight: 300;
 }
-.currency-table--container .color-orange{
+.main-currency-table .color-orange{
     background-color: var(--soft-orange);
 }
-.currency-table--container .color-blue{
+.main-currency-table .color-blue{
     color: var(--soft-blue);
 }
