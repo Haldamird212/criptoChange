@@ -412,6 +412,7 @@ main{
     padding: 5px 0;
     font-size: 5.2rem;
     font-weight: bold;
+    line-height: 5.3rem;
     color: var(--black);
 }
 .plan-card--price span{
